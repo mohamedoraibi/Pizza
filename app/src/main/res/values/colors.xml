@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="titleColor">#212121</color>
+    <color name="chooseYourPizza">#212121</color>
+    <color name="radioGroupBackground">#F44336</color>
+    <color name="radioGroupColor">#FFEB3B</color>
+    <color name="radioButtonBackground">#F44336</color>
+    <color name="radioButtonColor">#FFEB3B</color>
+    <color name="checkBoxBackground">#F44336</color>
+    <color name="checkBoxColor">#FFEB3B</color>
+    <color name="chooseExtrasColor">#212121</color>
+    <color name="calculatePriceBackground">#FFEB3B</color>
+    <color name="calculatePriceColor">#212121</color>
+    <color name="resultBackground">#BDBDBD</color>
+    <color name="resultColor">#FFFFFF</color>
+</resources>

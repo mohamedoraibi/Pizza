@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PizzaCodeLab</string>
+    <string name="pizzatime">PizzaTime</string>
+    <string name="chooe_your_pizza">Chooe your Pizza</string>
+    <string name="sawsage">Sawsage</string>
+    <string name="cheese">Cheese</string>
+    <string name="apple">Apple</string>
+    <string name="oliver">Oliver</string>
+    <string name="choose_extras">Choose Extras</string>
+    <string name="pepsi">Pepsi</string>
+    <string name="garlic">Garlic</string>
+    <string name="fries">Fries</string>
+    <string name="enter_tip_here_e_g_0">Enter Tip Here (e.g. 0)</string>
+    <string name="calculate_price">Calculate Price</string>
+</resources>

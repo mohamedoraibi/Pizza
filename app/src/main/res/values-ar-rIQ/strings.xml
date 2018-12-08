@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PizzaCodeLab</string>
+    <string name="pizzatime">وقت البيتزا</string>
+    <string name="chooe_your_pizza">اختر نوع البيتزا</string>
+    <string name="sawsage">صوصج</string>
+    <string name="cheese">جبن</string>
+    <string name="apple">تفاح</string>
+    <string name="oliver">زيتون</string>
+    <string name="choose_extras">اختر اضافات</string>
+    <string name="pepsi">بيبسي</string>
+    <string name="garlic">ثومية</string>
+    <string name="fries">فنكر</string>
+    <string name="enter_tip_here_e_g_0">ادخل البقشيش</string>
+    <string name="calculate_price">احسب السعر</string>
+</resources>
